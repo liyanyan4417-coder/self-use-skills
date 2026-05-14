@@ -1,0 +1,4 @@
+interface:
+  display_name: "SEM Measurement Model"
+  short_description: "Create SEM measurement tables."
+  default_prompt: "Run a structural equation modeling measurement-model analysis for my data and output the formatted three tables."

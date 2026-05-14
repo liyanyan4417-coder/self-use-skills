@@ -1,0 +1,3 @@
+display_name: Literature Review Writer
+short_description: Write empirical journal literature reviews from theory, concepts, relationships, and NotebookLM evidence.
+default_prompt: Use the literature-review-writer skill to draft or revise a Literature Review using the theory-concept-relationship structure. If my literature is in NotebookLM, query the relevant notebook first, extract structured evidence, then write Theoretical Background, Concept Definition, and Hypotheses Development.
