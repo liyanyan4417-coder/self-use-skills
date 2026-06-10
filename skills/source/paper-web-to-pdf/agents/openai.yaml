@@ -1,0 +1,3 @@
+display_name: Paper Web To PDF
+short_description: Convert accessible paper webpages into clean PDFs.
+default_prompt: Convert this accessible paper webpage into a clean PDF, removing ads and navigation while respecting access controls.
