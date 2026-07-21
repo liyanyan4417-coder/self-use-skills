@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero Web API"
+  short_description: "Reliable Zotero group writes via Web API."
+  default_prompt: "Use Zotero Web API to manage my Zotero groups and folders."
