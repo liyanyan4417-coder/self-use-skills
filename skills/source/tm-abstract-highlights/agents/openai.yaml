@@ -1,0 +1,4 @@
+interface:
+  display_name: "TM Abstract Highlights"
+  short_description: "Write TM abstracts and highlights under journal constraints"
+  default_prompt: "Use $tm-abstract-highlights to revise my Tourism Management abstract and highlights."
