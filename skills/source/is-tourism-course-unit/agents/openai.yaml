@@ -1,0 +1,4 @@
+interface:
+  display_name: "IS-Tourism Course Unit"
+  short_description: "Build IS-tourism foundation and paper-pair units"
+  default_prompt: "Use $is-tourism-course-unit to build or revise an IS-Learning course unit, choosing the foundation-unit pattern or the IS-to-tourism paper-pair pattern as appropriate."
